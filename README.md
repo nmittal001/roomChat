@@ -1,5 +1,5 @@
-#WebSocket Chat App with Node.js and React
-Create messenger chat application use Node.js, React.
+# WebSocket Chat App with Node.js and React
+- Create messenger chat application use Node.js, React.
 
 ## Features 
 
